@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, I'm Chris! 👋
+
+- ☄️ I am from Houston, Texas and graduated from The University of Texas at Dallas with a bachelor's in Computer Science
+- 💻 After graduating from college I entered App Academy, a Software Engineering Coding Bootcamp!
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-fealy/)
